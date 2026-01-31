@@ -1,0 +1,61 @@
+*
+{
+    line-height: 1.5;
+}
+header
+{
+    text-align: center;
+    background-color:skyblue;
+}
+h1
+{
+    padding-bottom: 20px;
+    color:purple;}
+
+img
+{
+    width: 200px;
+    height:200px;
+    background-color:skyblue;
+    border:3px solid pink;
+     border-color: blue;  
+    border-radius:50%;
+
+}
+ul li
+{
+    font-size: large;
+text-align: center;
+   margin-right: 100px; 
+    display: inline;
+    
+}
+#About
+{
+    
+    font-style: bold;
+}
+#Projects
+{
+ 
+    display:flex;
+    margin:0;
+    padding:0;
+   
+    text-align: left;
+    font-style: bold;
+    gap:20px;
+
+    
+}
+
+p{
+    font-size: x-large;
+}
+.p1
+{background-color: lightgrey;
+}
+.p2
+{background-color: lightgrey;}
+.p3
+{background-color: lightgrey;}
